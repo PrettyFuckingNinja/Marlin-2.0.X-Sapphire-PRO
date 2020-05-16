@@ -508,9 +508,9 @@
   //#define DEFAULT_Kd 440
 
   //Sapphire Pro
-  #define DEFAULT_Kp 14.21
-  #define DEFAULT_Ki 0.88
-  #define DEFAULT_Kd 57.26
+  #define DEFAULT_Kp 12.82
+  #define DEFAULT_Ki 0.79
+  #define DEFAULT_Kd 52.16
 
 #endif // PIDTEMP
 
